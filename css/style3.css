@@ -1,0 +1,88 @@
+/**{margin:0px; padding:0px;}
+#blok1{width:500px; height:500px; z-index:5; background-color:#000; }
+#blok1 #pozadina{width:400px; height:400px; margin: 10px 10px 10px 10px; z-index:2;position:relative;}
+#pozadina{background:url("../slike/Space footwear.jpg");}
+#blok1 #strelica{width:20px; height:20px; position:relative; margin-left:10px; margin-top:230px; z-index:1;}
+#blok2{width:300px; height:300px; margin-left:900px;margin-top:900px; z-index:4; background-color:#545454;}
+#slika2{background:url("../za galeriju/pexels-aditya-aiyar-1407354.jpg");}
+#blok1 #slika2{{width:200px; height:200px; margin: 10px 10px 10px 10px; z-index:3;position:relative;}
+
+.polje{margin-right:4%;}
+.cleaner{clear:both;}
+.polje input{width:100%; padding:5px 0px; margin-top:5px;}
+#okvir{width:55%; margin:20px auto;}
+.red{Margin-bottom:15px}
+.polje{width:48%; float:left;}
+
+header footer{width:100%; background-color:gray;}
+header{padding:10px;}
+#logo nav{height:50px;}
+#logo{background-color:red; width:20px; float:left;}
+#naslov{width:35%; height:50px; float:left; background-color:green; margin-left:10px;}
+nav{width:40%; float:right; background-color:blue;}
+.centriranjebloka{width:70%;height:300px; padding:300px; background-color:red; margin-left:250px; margin-top:100px;}
+.blok1{width:30%; height:90px; float:left; background-color:orange;} 
+footer{ height:100px; margin-top:120px;}
+
+.razrada {width:100%;
+background-color:white;
+top:300px;}
+
+.razrada img{display:inline
+background-color:white;}
+
+main{	justify-content:space-between 100px;}
+
+#prvi{height:50px;width:250px; background-color:red; 
+border-radius:10px 0px 0px 10px;}
+#drugi{height:50px;width:250px; background-color:blue; box-shadow:-5px 5px 10px #000; 
+border-radius:0px 0px 0px 0px;}
+#treci{height:50px;width:250px; background-color:green; box-shadow:0px 0px 25px #000; 
+border-radius:0px 0px 30px 30px;}
+
+.prvi .drugi{float:left; width:150px; height:100px; margin:100px;padding:500px;}
+.prvi{background:linear-gradient(to left,#528768,#dceda8);}
+.drugi{background:radial-gradient(#e895ae 10%,#21040d 60%,#e0b7ad 65%);}
+156
+*{margin:0px;
+padding:0px;}
+.cistac{clear;both;}
+.blok{
+float:left; width:150px; height:100px; margin:20px;}
+.prvi{background:linear-gradient(to left,#528768,#dceda8);}
+.blok1{border-radius:50%;
+float:left; width:120px; height:100px; margin:20px;}
+.drugi{ background:radial-gradient(#e895ae 10%,#21040d 50%,#e0b7ad 100%);}
+162
+*{margin:0px; padding:0px;}
+body{background-color:green;}
+ p {font-size: 25px; color:white;
+text-shadow:3px 3px 5px #000;}
+h1 {font-size: 25px; color:black;
+text-shadow:3px 3px 5px #000;}
+167
+#block{width:700px; height:200px; margin:20px auto; border:1px solid}
+.s{border: 1px solid;float:left; margin:40px; width:150px; height:120px; background-color:red;}
+179
+#b{transition:all 0.3s ease; background-color:red;height:100px;width:50;}
+#b:hover{transform:rotate(45deg);}
+176
+#b {transform: skew(25deg,35deg); background-color:red;height:50px; width:50px;} 
+172
+*{margin:0px; padding:0px;}
+section{width:50%; margin:20px auto; display:flex; flex-wrap:wrap; justify-content:space-between;}
+article{width:30%; height:100px; background:#ff6347; margin-bottom:20px;}
+article img{width:100%; height:90%;margin-top:20px;}
+*/
+
+*{margin:0px;padding:0px;}
+.cistac{ clear:both;}
+#f-o{width:55%; margin:50px;padding:1px}
+.f-r{margin-bottom:100px;}
+.p-b{width:20%; float:left;}
+.p-b:first-child{margin-right:4%;}
+
+.p-b input, .p-b label{display:block;}
+.p-b input{width:100%; border:1px solid rgba(0,0,0,0.2);padding:5px 0px; margin-top:5px;}
+
+.taster input{width:50%; display:block; margin:auto; border:none; background-color:red; padding:10px 0px;}
